@@ -1,4 +1,4 @@
-# Hi, I'm Elielson Junior 👋
+# Hi, I'm Elielson Junior
 
 **Software Developer | AI Solutions | Web Development | Digital Marketing**
 
@@ -67,6 +67,6 @@ Building responsive and scalable applications focused on performance, usability,
 ## 📫 Let's Connect
 
 * **LinkedIn:** [linkedin.com/in/elielsonjunior](https://www.linkedin.com/in/elielsonjr/)
-* **Portfolio:** [elielsonjr.github.io/portfolio](https://www.elielsonjr.github.io/portfolio)
+* **Portfolio:** [[elielsonjr.github.io/portfolio](https://www.elielsonjr.github.io/portfolio)](https://elielsonjr.github.io/portfolio/)
 
 *"Transforming ideas into digital solutions through technology, innovation, and creativity."* 🚀
